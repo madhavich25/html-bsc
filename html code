@@ -5,7 +5,8 @@
 </head>
 <body style="background-color:lightblue">
 <h1><center>paragraph </h1>
-<p> This is my paragraph </b> this html is an hyper text transfer language</p>
+<p> This is my paragraph </br> this html is an hyper text transfer language</p>
+<p>this my second paragraph</p>
 </body>
 </html>
 
